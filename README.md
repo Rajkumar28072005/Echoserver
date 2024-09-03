@@ -20,8 +20,8 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-### NAME: Thilakeswaran KP
-### REG NO: 212223230232
+### NAME: Rajkumar G
+### REG NO: 212223230166
 ### CLIENT :
 ```
 import socket
