@@ -58,9 +58,11 @@ s.close()
 print("Server closed.")
 ```
 
-## OUTPUT:
+## CLIENT OUTPUT:
+![Screenshot 2024-09-04 194553](https://github.com/user-attachments/assets/67e125bf-9164-4a6f-8aa8-2b015915b09d)
 
-![WhatsApp Image 2024-09-03 at 23 09 12_f9b1e2c9](https://github.com/user-attachments/assets/c6e57093-f0d0-4950-be28-5356c4eba23a)
+## SERVER OUTPUT:
+![Screenshot 2024-09-04 194600](https://github.com/user-attachments/assets/503fa554-6ec1-4fc3-af23-9dd5426905eb)
 
 
 ## RESULT:
